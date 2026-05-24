@@ -482,7 +482,7 @@ export default function GreatBritishBracket() {
                 >
 
                   <p className="text-sm font-bold uppercase tracking-widest text-zinc-500">
-                    Champion
+                    And the Waitrose trophy goes to...
                   </p>
 
                   <p className="mt-3 text-5xl font-black text-zinc-900">
